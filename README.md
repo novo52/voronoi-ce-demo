@@ -7,9 +7,11 @@ Written to run on the TI-84 Plus CE graphing calculator.
 ### Output
 
 Running the program
+
 !["asm(prgmDEMO)" is entered into the console. The screen changes to show a multicoloured voronoi graph which becomes higher resolution over time.](progressive_render_demo.gif "Program output")
 
 Time-constant frames
+
 ![The same voronoi graph, but each frame is shown on screen for the same time period.](constant_output.gif "Time-adjusted program output")
 
 ##Downloading and Running
