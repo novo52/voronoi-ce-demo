@@ -14,7 +14,7 @@ Time-constant frames
 
 ![The same voronoi graph, but each frame is shown on screen for the same time period.](constant_output.gif "Time-adjusted program output")
 
-##Downloading and Running
+### Downloading and Running
 
 1. Download the latest release from the releases tab
 2. Download the latest release of CLibs from [here](https://github.com/CE-Programming/libraries/releases/latest)
@@ -22,7 +22,7 @@ Time-constant frames
 4. Run `asm(prgmDEMO)`
 
 
-##Building
+### Building
 Requires the [CE C/C++ Toolchain](https://github.com/CE-Programming/toolchain)
 
 make using `cedev.bat`
